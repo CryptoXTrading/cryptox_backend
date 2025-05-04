@@ -25,8 +25,8 @@
 **CRYPTOX** is a decentralised trading platform that utilises blockchain and smart contract technology.
 
 #### Repositories
-Frontend: [GitHub](https://github.com/CryptoXTrading/cryptox_frontend)
-Backend: [GitHub](https://github.com/CryptoXTrading/cryptox_backend)
+- Frontend: [GitHub](https://github.com/CryptoXTrading/cryptox_frontend)
+- Backend: [GitHub](https://github.com/CryptoXTrading/cryptox_backend)
 
 #### Backend Core Functionalities
 - Store digital assets and their metadata and user data in MySQL database
